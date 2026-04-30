@@ -3,3 +3,5 @@
 - Qué hice: Crucé datos de tráfico de TomTom con indicadores económicos de la OECD usando Python y Pandas.
 - Resultado o aprendizaje: Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano.
 - Skills: Python | Pandas
+
+<img width="1183" height="530" alt="image" src="https://github.com/user-attachments/assets/97ec1325-df55-4d0d-9f4e-210bb4717f45" />
